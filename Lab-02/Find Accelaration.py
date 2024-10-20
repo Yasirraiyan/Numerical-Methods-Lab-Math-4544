@@ -1,3 +1,5 @@
+#Now, write a function for evaluating the acceleration at  t=16
+
 import numpy as np
 
 # Known data points (time t, and corresponding velocity v)
